@@ -65,8 +65,8 @@ namespace OpenTween
         /// <summary>
         /// Twitter コンシューマーキー
         /// </summary>
-        public const string TwitterConsumerKey = "ST6eAABKDRKTqbN7pPo2A";
-        public const string TwitterConsumerSecret = "BJMEiivrXlqGESzdb8D0bvLfNYf3fifXRDMFjMogXg";
+        public const string TwitterConsumerKey = "1qDtfT0fva4TjdAr8OzOQ";
+        public const string TwitterConsumerSecret = "z2d2slCSlIY8mn1FGz6pWEHCj2Jb82hMabkoUlMabsc";
 
         //=====================================================================
         // Lockerz (旧Plixi)
